@@ -1,0 +1,1 @@
+This is the README for the Course-Planner project
